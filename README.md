@@ -1,7 +1,7 @@
 ## Hi there, I'm Shayna Malka 👋
 
 📚 I am a motivated computer science student committed to continuous learning  
-🧩 I have a strong interest in analytical thinking and structured problem-solving.  
+🧩 I have a strong interest in analytical thinking and structured problem-solving  
 🌱 I’m currently learning Python and strengthening my ability to write efficient and readable code
 
 
