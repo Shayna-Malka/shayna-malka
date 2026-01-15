@@ -13,7 +13,7 @@
 
 
 </a> </p>
-  [![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaynamalka)](https://github.com/shaynamalka)
+[![Shay's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)](https://github.com/shayna-malka)]
 [![Shayna Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)]
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayna-malka&show_icons=true&locale=en" alt="stats" /></p> -->
 
