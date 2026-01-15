@@ -10,16 +10,11 @@
 #### Languages
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
-
-
-</a> </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![Shayna Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)](https://github.com/shayna-malka/github-readme-stats)
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayna-malka&show_icons=true&locale=en" alt="stats" /></p> -->
+[![Shayna Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)](https://github.com/shayna-malka)
 
 
 <!--
+[![Shayna Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)](https://github.com/shayna-malka/github-readme-stats)
 **Shayna-Malka/shayna-malka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
