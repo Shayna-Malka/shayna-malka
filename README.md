@@ -13,6 +13,7 @@
 
 
 </a> </p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Shayna Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayna-malka)](https://github.com/shayna-malka/github-readme-stats)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayna-malka&show_icons=true&locale=en" alt="stats" /></p> -->
